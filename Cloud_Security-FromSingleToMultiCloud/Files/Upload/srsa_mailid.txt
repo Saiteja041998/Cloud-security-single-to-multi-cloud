@@ -1,0 +1,18 @@
+user
+~~~~
+
+from mailid
+
+email:trustsrsa.send@gmail.com
+     From: priyankasrisha.m93@gmail.com
+pwd:srsa2013srsa
+
+
+
+
+to mail id
+
+ email:trustsrsa@gmail.com
+
+ pwd:srsa2013srsa
+
